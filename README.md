@@ -1,2 +1,2 @@
 # Resume 
-Take a look at my resume experience, education and professional memberships.
+Take a look at my resume for professional experience, education and professional memberships.
